@@ -7,7 +7,10 @@ Por este motivo han decido contratanos a nosotros como empresa Data Fusion Latam
 
 
 ## Quienes somos
-
+Somos una consultoría especializada en ofrecer servicios de análisis y tratamiento de datos. 
+Creemos que detrás de cada dato se esconde una historia esperando ser contada. Por eso, empleamos las herramientas y técnicas más avanzadas para descubrir, interpretar y transformar esa historia en insights claros y accionables que te permitan tomar decisiones estratégicas. 
+Nuestros servicios están diseñados de manera personalizada para que puedas conocer y anticiparse a las realidades de tu negocio. 
+En Data Fusion Latam, tu éxito es el nuestro. 
 
 
 ![Logo](https://github.com/jorgelqc/DrikingTeam/blob/main/Fondo%20y%20Logo%20Analistas/Logo%20Analistas.jpeg?raw=true)
