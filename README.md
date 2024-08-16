@@ -9,7 +9,7 @@ Por este motivo han decido contratanos a nosotros como empresa Data Fusion Latam
 
 
 
-## Quienes somos :technologist::woman_technologist::chart_with_upwards_trend:
+# Quienes somos :technologist::woman_technologist::chart_with_upwards_trend:
 Somos una consultoría especializada en ofrecer servicios de análisis y tratamiento de datos. 
 Creemos que detrás de cada dato se esconde una historia esperando ser contada. Por eso, empleamos las herramientas y técnicas más avanzadas para descubrir, interpretar y transformar esa historia en insights claros y accionables que te permitan tomar decisiones estratégicas. 
 Nuestros servicios están diseñados de manera personalizada para que puedas conocer y anticiparse a las realidades de tu negocio. 
@@ -34,7 +34,7 @@ En Data Fusion Latam, tu éxito es el nuestro.
 - Zero Tier
 
 
-## Objetivo principal :dart::trophy:
+# Objetivo principal :dart::trophy:
 Detectar cuellos de botella e ineficiencias en los procesos de gestión, identificando de esta manera áreas a mejorar y prácticas que deben ser optimizadas.
 Además, la empresa desea evaluar el rendimiento de los productos, distinguir aquellos más rentables y registrar los que menos se comercializan en las tiendas. 
 También, busca analizar los niveles de inventario para evitar tanto el exceso como la escasez de productos, garantizando así el stock necesario para cada tienda y optimizando las ganancias o pérdidas relacionadas. 
