@@ -44,7 +44,7 @@ CREATE TABLE Inventarios (
     fecha_pago DATE NOT NULL,
     CONSTRAINT FK_Inventarios_Tiendas FOREIGN KEY (id_tienda) REFERENCES Tiendas(id_tienda),
     CONSTRAINT FK_Inventarios_Productos FOREIGN KEY (id_producto) REFERENCES Productos(id_producto),
-    CONSTRAINT FK_Inventarios_Provedores FOREIGN KEY (id_provedor) REFERENCES Vendedores(id_provedor)
+    CONSTRAINT FK_Inventarios_Provedores FOREIGN KEY (id_provedor) REFERENCES Provedores(id_provedor)
 
 );
 
@@ -54,7 +54,7 @@ CREATE TABLE Ordenes_Compra (
     id_provedor INT NOT NULL,
     fecha_orden_compra DATE NOT NULL,
     numero_orden_compra INT NOT NULL,
-    CONSTRAINT FK_Ordenes_Compra_Provedor FOREIGN KEY (id_provedor) REFERENCES Vendedores(id_provedor)
+    CONSTRAINT FK_Ordenes_Compra_Provedor FOREIGN KEY (id_provedor) REFERENCES Provedores(id_provedor)
 );
 -- Tabla Sales
 CREATE TABLE Ventas (
