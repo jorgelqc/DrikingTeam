@@ -7,10 +7,10 @@ USE DrinkinTeamDB;
 -- Creacion de tablas segun diagrama entidad relacion 
 
 -- Tabla Vendors
-CREATE TABLE Vendedores (
-    id_vendedor INT IDENTITY(1,1) PRIMARY KEY,
-    nombre_vendedor NVARCHAR(50) NOT NULL,
-    numero_vendedor INT NOT NULL
+CREATE TABLE Provedores (
+    id_provedor INT IDENTITY(1,1) PRIMARY KEY,
+    nombre_provedor NVARCHAR(50) NOT NULL,
+    numero_provedor INT NOT NULL
 );
 -- Tabla Brands
 CREATE TABLE Marcas (
@@ -36,7 +36,7 @@ CREATE TABLE Inventarios (
     id_inventario INT PRIMARY KEY,
     id_tienda INT NOT NULL,
     id_producto INT NOT NULL,
-    id_vendedor INT NOT NULL,
+    id_provedor INT NOT NULL,
     cantidad INT NOT NULL,
     precio_venta DECIMAL(10, 2) NOT NULL,
     fecha_recibido DATE NOT NULL,
@@ -44,17 +44,17 @@ CREATE TABLE Inventarios (
     fecha_pago DATE NOT NULL,
     CONSTRAINT FK_Inventarios_Tiendas FOREIGN KEY (id_tienda) REFERENCES Tiendas(id_tienda),
     CONSTRAINT FK_Inventarios_Productos FOREIGN KEY (id_producto) REFERENCES Productos(id_producto),
-    CONSTRAINT FK_Inventarios_Vendedores FOREIGN KEY (id_vendedor) REFERENCES Vendedores(id_vendedor)
+    CONSTRAINT FK_Inventarios_Provedores FOREIGN KEY (id_provedor) REFERENCES Vendedores(id_provedor)
 
 );
 
 -- Tabla PurchaseOrders
 CREATE TABLE Ordenes_Compra (
     id_orden_compra INT IDENTITY(1,1) PRIMARY KEY,
-    id_vendedor INT NOT NULL,
+    id_provedor INT NOT NULL,
     fecha_orden_compra DATE NOT NULL,
     numero_orden_compra INT NOT NULL,
-    CONSTRAINT FK_Ordenes_Compra_Vendedores FOREIGN KEY (id_vendedor) REFERENCES Vendedores(id_vendedor)
+    CONSTRAINT FK_Ordenes_Compra_Provedor FOREIGN KEY (id_provedor) REFERENCES Vendedores(id_provedor)
 );
 -- Tabla Sales
 CREATE TABLE Ventas (
