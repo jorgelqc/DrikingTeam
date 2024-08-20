@@ -16,7 +16,7 @@ Nuestros servicios están diseñados de manera personalizada para que puedas con
 En Data Fusion Latam, tu éxito es el nuestro. 
 
 
-![Logo](https://github.com/jorgelqc/DrikingTeam/blob/main/Fondo%20y%20Logo%20Analistas/Logo%20Analistas.jpeg?raw=true)
+![Logo](https://github.com/jorgelqc/DrikingTeam/blob/main/Dise%C3%B1o/FondoLogoAnalistas/Logo%20Analistas.jpeg)
 
 
 ## Lenguajes, Programas y Librerias Utilizadas :computer:
