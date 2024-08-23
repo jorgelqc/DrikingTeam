@@ -26,12 +26,14 @@ En Data Fusion Latam, tu éxito es el nuestro.
     - Seaborn
     - pyodbc
     - Mathplotlib.pyplot
+    - sqlalchemy
+    - watchdog
 - SQL Server
     - SSMS (SQL Server Managment Studio)
 - Spreedsheets
 - Google Drive
 - Power BI
-- Zero Tier
+- GoogleCloud
 
 
 # Objetivo principal :dart::trophy:
