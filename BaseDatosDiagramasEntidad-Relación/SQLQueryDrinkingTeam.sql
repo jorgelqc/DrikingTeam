@@ -48,6 +48,7 @@ CREATE TABLE Ventas (
     TotalVenta DECIMAL(10, 2) NOT NULL,  
     PrecioVenta DECIMAL(10, 2) NOT NULL,   
     FechaVenta DATE NOT NULL,  
+    Clasificacion INT NOT NULL, 
 );
 
 -- Tabla Compras
@@ -63,6 +64,7 @@ CREATE TABLE Compras (
     PrecioCompra DECIMAL(10, 2) NOT NULL,   
 	Cantidad INT NOT NULL,   
 	TotalCompra DECIMAL(10, 2) NOT NULL,   
+    Clasificacion INT NOT NULL, 
 );
 -----------------------------------------------------------
 -- CREACION DE RELACIONES ENTRE TABLAS
