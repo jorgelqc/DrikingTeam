@@ -4,7 +4,7 @@ La empresa “Drinking team” se dedica a la comercialización de bebidas alcoh
 
 # Descripción del proyecto :bookmark_tabs::books:
 La empresa, Drinking Team, enfrenta problemas significativos en la gestión de su inventario, presentando desabastecimiento de ciertos productos y acumulación de stock de otros artículos, la gestión ineficiente de la cadena de suministros como falta de productos en momentos críticos de demanda, la acumulación de artículos que no se venden o la necesidad de envíos adicionales en carácter de urgente para reponer el stock, afectan de manera directa la satisfacción del cliente, los costos de almacenamiento y los costos de transporte. 
-Por este motivo han decido contratarnos a nosotros "Data Fusion Latam" para que en base a los datos de inventario proporcionados y el análisis de las ventas efectuadas en todos las tiendas se realice un manejo más optimo de los productos. 
+Por este motivo, han confiado en Data Fusion Latam para desarrollar una estrategia basada en el análisis de datos históricos de ventas y de inventario. De esta manera, lograremos reducir los costos asociados al sobreabastecimiento y la escasez de productos, mejorando así la satisfacción del cliente y la rentabilidad del negocio.
 
 
 
