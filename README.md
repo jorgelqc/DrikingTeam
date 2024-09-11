@@ -4,15 +4,15 @@ La empresa “Drinking team” se dedica a la comercialización de bebidas alcoh
 
 # Descripción del proyecto :bookmark_tabs::books:
 La empresa, Drinking Team, enfrenta problemas significativos en la gestión de su inventario, presentando desabastecimiento de ciertos productos y acumulación de stock de otros artículos, la gestión ineficiente de la cadena de suministros como falta de productos en momentos críticos de demanda, la acumulación de artículos que no se venden o la necesidad de envíos adicionales en carácter de urgente para reponer el stock, afectan de manera directa la satisfacción del cliente, los costos de almacenamiento y los costos de transporte. 
-Por este motivo han decido contratarnos a nosotros como empresa Data Fusion Latam para que basados en sus datos de inventario, realizar un analisis de las ventas realizadas en las tiendas distribuidas a lo largo del pais para que su stock tenga un mejor manejo en cada tienda correspondiente al producto que más se vende. 
+Por este motivo han decido contratarnos a nosotros "Data Fusion Latam" para que en base a los datos de inventario proporcionados y el análisis de las ventas efectuadas en todos las tiendas se realice un manejo más optimo de los productos. 
 
 
 
 
 # Quienes somos :technologist::woman_technologist::chart_with_upwards_trend:
 Somos una consultoría especializada en ofrecer servicios de análisis y tratamiento de datos. 
-Creemos que detrás de cada dato se esconde una historia esperando ser contada. Por eso, empleamos las herramientas y técnicas más avanzadas para descubrir, interpretar y transformar esa historia en insights claros y accionables que te permitan tomar decisiones estratégicas. 
-Nuestros servicios están diseñados de manera personalizada para que puedas conocer y anticiparse a las realidades de tu negocio. 
+Creemos que detrás de cada dato se esconde una historia esperando ser contada. Por eso, empleamos las herramientas y técnicas más avanzadas para descubrir, interpretar y transformar esa historia en insights claros y accionables que permitan tomar decisiones estratégicas. 
+Nuestros servicios están diseñados de manera personalizada para que puedan conocer y anticiparse a las realidades de su negocio. 
 En Data Fusion Latam, tu éxito es el nuestro. 
 
 
@@ -25,7 +25,7 @@ En Data Fusion Latam, tu éxito es el nuestro.
     - Pandas
     - Seaborn
     - pyodbc
-    - Mathplotlib.pyplot
+    - Matplotlib
     - sqlalchemy
     - watchdog
 - SQL Server
